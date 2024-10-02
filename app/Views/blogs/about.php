@@ -64,7 +64,7 @@
         </i><br>
         Situs web dan blog dapat dimonetisasi, tetapi metodenya mungkin berbeda. Blog dapat menghasilkan pendapatan melalui iklan, sponsor, pemasaran afiliasi, dan penjualan produk digital seperti e-book dan kursus. Situs web dapat menjual produk atau layanan secara langsung, atau menghasilkan pendapatan melalui iklan, sponsor, atau langganan.
       </li>
-      <a href="https://www.domainesia.com/berita/apa-itu-blog/" class="btn btn-outline-primary mt-3" target="_blank">Read More </a>
+      <a href="https://jalanpendaki.com/tips-pendaki-pemula#google_vignette" class="btn btn-outline-primary mt-3" target="_blank">Read More </a>
     </ul>
   </div>
 
