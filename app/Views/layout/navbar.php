@@ -1,5 +1,5 @@
 <nav class="m-2 p-3 border-bottom border-white ">
-  <ul class="nav justify-content-end me-3">
+  <ul class="nav d-flex justify-content-end me-3">
     <li class="nav-item">
       <a class="nav-link active" aria-current="page" href="/home">Home</a>
     </li>

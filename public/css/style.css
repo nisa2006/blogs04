@@ -5,7 +5,13 @@
 }
 body {
  background-image:url("/img/gunung.jpg");
-  position: relative;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ background-attachment: fixed;
+ background-blend-mode: overlay;
+ background-color: rgb(61, 57, 57);
+position: relative;
 }
 body::-webkit-scrollbar {
   display: none;
@@ -44,7 +50,7 @@ body h3 {
   align-items: center;
   border: none;
   outline: none;
-  margin: 2em auto;
+  margin: 1em 1em 2em 0;
   padding: 2em;
   border-radius: 2em;
   -webkit-border-radius: 2em;
@@ -53,12 +59,18 @@ body h3 {
   -o-border-radius: 2em;
 }
 .content article {
+  width: 60%;
+  font-size: .9em;
   opacity: 0.3;
   transition: 0.5s;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
   -ms-transition: 0.5s;
   -o-transition: 0.5s;
+  position: absolute;
+  left: 5%;
+  top: 10%;
+  transform: translateX(-10vh);
 }
 .content article:hover {
   opacity: 0.8;
@@ -89,15 +101,15 @@ body h3 {
 .content-about {
   margin: 6em;
   width: 90%;
-  display: flex;
+  /* display: flex;
   justify-content: center;
   align-items: center;
-  border-bottom: 1px solid whitesmoke;
+  border-bottom: 1px solid whitesmoke; */
 }
-.content-about img {
+.content-about >img {
   margin: 5em 5em 1em 2em;
   padding: 2em;
-  width: 25%;
+  width: 5%;
   height: 15%;
   object-fit: cover;
   transition: 0.5s;
@@ -149,12 +161,16 @@ body h3 {
 .content-dua {
   width: 100%;
   max-width: 80%;
-  margin: 10px auto;
+  margin: 2em 5em 2em 1em;
   border-bottom: 1px solid whitesmoke;
+  padding: 2em;
 }
 .content-dua > * {
-  font-size: 1.1em;
+  font-size: .7em;
   opacity: 0.7;
+}
+.content-dua ul >li{
+  width: 50%;
 }
 footer {
   display: flex;
