@@ -21,12 +21,12 @@
       <div class="content-blogs">
         <section class="create-content">
           <div class="data-user">
-            <b>Nama = <i><?= $v['Nama']; ?></i></b>
-            <b>Tanggal pembuatan = <i><?= $v['Tanggal_create']; ?></i></b>
-          </div>
-          <article class="value-content">
-            <b>Judul blogs = <i><?= $v['Judul_blogs']; ?></i></b>
+            <article class="value-content">
+            <b> <i><?= $v['Nama']; ?></i></b><br>
+            <b> <i><?= $v['Judul_blogs']; ?></i></b>
           </article>
+            <b>  <i><?= $v['Tanggal_create']; ?></i></b>
+          </div>
         </section>
         <div class="buttons m-2 p-2">
           <a href="/read/<?= $v['id']; ?>" class="btn btn-outline-primary">Read more</a>

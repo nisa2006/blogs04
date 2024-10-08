@@ -1,0 +1,160 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 400;
+  box-sizing: border-box;
+  background-image:url("/img/gunung.jpg") ;
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-blend-mode: overlay;
+    background-color: rgb(61, 57, 57);
+    position: relative;
+}
+::placeholder {
+  font-size: 0.9rem;
+  text-align: center;
+  color: rgb(4, 68, 68);
+}
+.container {
+  margin: 50px auto;
+  padding: 10px 10px;
+  width: 100%;
+  background: transparent;
+  letter-spacing: 2px;
+  box-sizing: border-box;
+}
+.form-login {
+  padding: 20px;
+  width: 80%;
+  margin: 10vh 5vh 2vh 20vh ;
+  /* background: #000; */
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 10vh;
+}
+.form-login form{
+  width: 60%;
+  height: 40vh;
+  border: 1px solid whitesmoke;
+  margin-right: 10vh;
+  border-radius: 3em;
+  -webkit-border-radius: 3em;
+  -moz-border-radius: 3em;
+  -ms-border-radius: 3em;
+  -o-border-radius: 3em;
+}
+.email,
+.password,
+.username,
+.tombol,
+.no-hp {
+  width: 60%;
+  height: 70px;
+  /* background: #4e4747; */
+  margin: 15px auto;
+  padding: 10px;
+}
+.email label,
+.no-hp label,
+.password label,
+.username label {
+  width: 40%;
+  box-sizing: border-box;
+  margin: 40px 0px 20px 10px;
+  padding: 10px;
+  color: #b8d4f7;
+  /* background: #000; */
+}
+.email input,
+.no-hp input,
+.password input,
+.username input {
+  padding: 10px;
+  width: 89%;
+  height: 5vh;
+  box-sizing: border-box;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.tombol {
+  position: relative;
+  /* background-color: #837474; */
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin: 25px auto;
+  align-items: center;
+  text-align: center;
+}
+.tombol p{
+  color: whitesmoke;
+  margin: 2em;
+}
+.tombol button {
+  letter-spacing: 1px;
+  width: 100px;
+  height: 30px;
+  font-size: 1rem;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.tombol a {
+  width: 150px;
+  height: 30px;
+  padding: 4px 4px;
+  box-sizing: border-box;
+  font-size: 0.9em;
+  list-style-type: none;
+  text-transform: capitalize;
+  text-decoration: none;
+  border: 1px solid;
+  outline: none;
+  background-color: #01c594;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.tombol span {
+  font-size: 1.2em;
+}
+.email h6,
+.password h6,
+.username h6 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(240, 31, 31);
+}
+.hero-content {
+  margin: 2em;
+  padding: 1em;
+  width: 70%;
+  display: flex;
+  gap: 15vh;
+  justify-content: center;
+  align-items: center;
+}
+.hero-content > * {
+  color: whitesmoke;
+}
+.hero-content img {
+  width: 45vh;
+}
+.heroes-image img {
+  width: 45vh;
+}

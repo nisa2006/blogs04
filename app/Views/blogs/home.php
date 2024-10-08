@@ -1,7 +1,7 @@
 <?= $this->extend('layout/templates'); ?>
 <?= $this->section('body-content'); ?>
 <div class="container m-5 p-4 w-100">
-  <h1 class="text-capitalize opacity-50"> welcome to kata pendaki | Naseh </h1>
+  <h1 class="text-capitalize opacity-50"> welcome to kata pendaki</h1>
   <div class="content">
     <article class="fw-semibold text-capitalize  lh-sm isi ">
    pergi ke tempat yang bagus! Hari ini adalah harimu! Gunungmu sedang menunggu, jadi… pergilah!"
