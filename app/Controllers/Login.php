@@ -33,7 +33,7 @@ class Login extends BaseController
                 ],
             ],
             'Username' => [
-                'rules' => 'is_unique[login.Username]|exact_length[8]',
+                'rules' => 'is_unique[login.Username]',
                 'errors' => [
                     'is_unique' => '{field} sudah didaftarkan, coba daftarkan username yang lain!!!',
                     'exact_length' => '{field} minimal 8 karakter'

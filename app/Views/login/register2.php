@@ -73,7 +73,6 @@
         <input
           type="password"
           name="Password"
-          maxlength="8"
           class="form-control fw-bold <?= (session()->getFlashdata('salah')) ? 'is-invalid' : ''; ?>"
           id=" exampleInputPassword1" required />
         <div class="invalid-feedback">
@@ -84,7 +83,6 @@
         <input
           type="password"
           name="chekPass"
-          maxlength="8"
           class="form-control fw-bold"
           id="exampleInputPassword1" />
       </div>
