@@ -2,7 +2,7 @@
 <?= $this->section('body-content'); ?>
 <main class="blogs-view">
   <section class="hero-blogs">
-    <img src="/img/Blog.png" alt="">
+    <!-- <img src="/img/Blog.png" alt=""> -->
     <header>
       <h1>Pendaki</h1>
       <article>

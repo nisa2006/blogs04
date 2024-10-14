@@ -17,52 +17,28 @@
     <ul>
       <li>
         <i>
-          Tujuan:
+          Tujuan mendaki:
         </i><br>
         Aku bukanlah seorang pecandu ketinggian, tapi aku adalah seorang yang mencari ketenangan saat dilanda masalah
       </li>
       <li>
         <i>
-          Konten:
+          Konten-konten pendaki:
         </i> <br>
         Curhatan hati petualangan
-        Secara tidak sadar petualang itu membuang rasa egisme,rasa gengsi dan mengajarkan kita hidup apa adanya.
+        Secara tidak sadar petualang itu membuang rasa egoisme,rasa gengsi dan mengajarkan kita hidup apa adanya.
       </li>
       <li>
         <i>
-          Struktur:
+          Struktur pendakian:
         </i><br>
-        Website cenderung memiliki struktur yang lebih statis, dengan konten yang diatur dalam halaman dan sub halaman yang relatif konsisten dari waktu ke waktu. Blog, di sisi lain, lebih dinamis, dengan posting baru ditambahkan secara teratur dan ditampilkan di halaman depan dalam urutan.
+       1.Carilah informasi sebanyak-banyaknya. Sebelum mulai mendaki gunung, bacalah sebanyak mungkin buku mengenai keterampilan yang diperlukan dan pengalaman orang lain saat mendaki gunung
       </li>
       <li>
         <i>
-          Desain:
+          Motivasi untuk pendaki:
         </i><br>
-        Website dan blog dapat memiliki desain yang berbeda tergantung pada tujuan dan audience. Website sering memprioritaskan kegunaan dan fungsionalitas, sedangkan blog mungkin memiliki desain yang lebih personal atau kreatif yang mencerminkan gaya atau minat blogger.
-      </li>
-      <li>
-        <i>
-          Frekuensi Pembaruan:
-        </i><br>
-        Situs web biasanya lebih jarang diperbarui daripada blog. Blog dirancang untuk diperbarui secara berkala, dengan posting baru diterbitkan setiap hari, mingguan, atau bulanan, sedangkan situs web hanya dapat diperbarui jika ada perubahan besar pada konten atau desainnya.
-      </li>
-      <li>
-        <i>
-          Author:
-        </i><br>
-        Blog biasanya dikaitkan dengan satu penulis atau sekelompok penulis yang menulis konten. Situs web dapat memiliki banyak penulis, atau kontennya dapat dibuat oleh tim profesional, seperti desainer, pengembang, dan copywriter.
-      </li>
-      <li>
-        <i>
-          SEO:
-        </i><br>
-        Search Engine Optimization (SEO) penting untuk situs web dan blog, tetapi pendekatannya bisa berbeda. Blog dioptimalkan untuk kata kunci dan topik, dengan setiap posting menargetkan istilah pencarian tertentu. Situs web dioptimalkan untuk pengalaman pengguna secara keseluruhan, dengan fokus pada kegunaan, aksesibilitas, dan navigasi.
-      </li>
-      <li>
-        <i>
-          Monetisasi:
-        </i><br>
-        Situs web dan blog dapat dimonetisasi, tetapi metodenya mungkin berbeda. Blog dapat menghasilkan pendapatan melalui iklan, sponsor, pemasaran afiliasi, dan penjualan produk digital seperti e-book dan kursus. Situs web dapat menjual produk atau layanan secara langsung, atau menghasilkan pendapatan melalui iklan, sponsor, atau langganan.
+        Kata-kata pendaki ini mengajarkan bahwa hidup tidak selalu tentang mencapai puncak, tetapi juga tentang perjalanan kita menuju kesana. Mereka mengingatkan kita untuk bersabar dalam menghadapi tantangan dan menjalani hidup dengan penuh semangat. Dengan menghadirkan perspektif lain tentang hidup, kata-kata pendaki ini memberikan inspirasi dan kekuatan untuk terus melangkah maju dalam menjalani kehidupan ini.
       </li>
       <a href="https://jalanpendaki.com/tips-pendaki-pemula#google_vignette" class="btn btn-outline-primary mt-3" target="_blank">Read More </a>
     </ul>

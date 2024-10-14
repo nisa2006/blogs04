@@ -15,7 +15,7 @@
 
 <body>
   <div class="hero-content">
-    <img src="/img/join.png" alt="">
+    <!-- <img src="/img/join.png" alt=""> -->
     <header>
       <h1 class="text-white">Daftar Disini</h1>
       <article>

@@ -47,4 +47,40 @@ class BlogSite extends BaseController
         $data['user_view'] = $blogmodel->find($id);
         return view('/blogs/view_blog', $data);
     }
+     public function edit($id)
+    {
+        $blogmodel = new BlogModel();
+        $data['user_edit'] = $blogmodel->find($id);
+        return view('blogs/edit', $data);
+    }
+    public function update($id)
+    {
+        $blogmodel = new BlogModel();
+        $ubah = $blogmodel->save([
+            'id'  => $id,
+            'Nama' => $this->request->getVar('Nama'),
+            'Judul_blogs' => $this->request->getVar('Judul_blogs'),
+            'Blogs' => $this->request->getVar('Blogs'),
+            'Referensi' =>  $this->request->getVar('Referensi'),
+            'Tanggal_create' => $this->request->getVar('Tanggal_create')
+        ]);
+        if ($ubah) {
+            session()->setFlashdata('berhasil' ,'data mu berhasil diubah');
+            return redirect()->to('/blogs');
+        } else {
+            return redirect()->back();
+        }
+    }
+    public function delete($id)
+    {
+        session();
+        $blogmodel = new BlogModel();
+        $hapus = $blogmodel->delete($id);
+        if ($hapus) {
+            session()->setFlashdata('hapus' ,'data mu berhasil di hapus');
+            return redirect()->to('/blogs');
+        } else {
+            return redirect()->back();
+        }
+    }
 }
